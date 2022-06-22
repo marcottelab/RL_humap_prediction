@@ -56,7 +56,7 @@ Complexes interacting with SARS-CoV-2 proteins can be visualized by exploring di
 [SARS-COV2 Map with predicted complexes from hu.MAP 2.0](https://marcottelab.github.io/RL_humap_prediction/humap2/SARS_COV2_Map_only_mapped_complexes_names.html)
 
 ## References:
-[Molecular complex detection in protein interaction networks through reinforcement learning](https://doi.org/10.1101/2022.06.20.496772) 
+[Molecular complex detection in protein interaction networks through reinforcement learning](https://www.biorxiv.org/content/10.1101/2022.06.20.496772v1) 
 
 Complexes from CORUM and Super.Complex on hu.MAP 1.0 and hu.MAP 2.0 are available here:
 [https://marcottelab.github.io/super.complex_website_humap/](https://marcottelab.github.io/super.complex_website_humap/)
